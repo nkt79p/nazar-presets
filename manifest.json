@@ -1,0 +1,32 @@
+{
+ "format": "NAZAR_BASE_PRESETS_V1",
+ "version": "2026.09.16.1",
+ "created": "2026-09-16T00:27:55",
+ "drb": {
+  "file": "base_presets.drb",
+  "sha256": "18237e6357404bfdd374fc9af7a07c476f70b601c427ae99dd14c66c119073ce",
+  "size": 25025
+ },
+ "fonts": [
+  {
+   "file": "fonts/FiraSansExtraCondensed-Bold.ttf",
+   "sha256": "7cb4916f0fa0cef0428582f954b6d33d971222e5727c051d1805cd5021e885c0",
+   "size": 480716,
+   "family": "Fira Sans Extra Condensed",
+   "license": "OFL-1.1"
+  },
+  {
+   "file": "fonts/Pacifico-Regular.ttf",
+   "sha256": "4dac9db3fa9ca072f7861fd916bf04bdceac6069d0f3a886f5e523d922e918f1",
+   "size": 315408,
+   "family": "Pacifico",
+   "license": "OFL-1.1"
+  }
+ ],
+ "presets": [
+  "BASIC_Opacity",
+  "NZR_KARAOKE_BLACK",
+  "VIOLET_EMPH"
+ ],
+ "note": "Fonts: Fira Sans Extra Condensed Bold and Pacifico Regular (SIL Open Font License 1.1) replace the macOS fonts of the authored presets."
+}
