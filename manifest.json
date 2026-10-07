@@ -1,11 +1,11 @@
 {
  "format": "NAZAR_BASE_PRESETS_V1",
- "version": "2026.09.16.1",
- "created": "2026-09-16T00:27:55",
+ "version": "2026.10.07.5",
+ "created": "2026-10-07T08:15:36",
  "drb": {
   "file": "base_presets.drb",
-  "sha256": "18237e6357404bfdd374fc9af7a07c476f70b601c427ae99dd14c66c119073ce",
-  "size": 25025
+  "sha256": "668835fea18e90bc485e4bbbd06f061ab093771e650dfeeb1b515244fd53be31",
+  "size": 35014
  },
  "fonts": [
   {
@@ -21,12 +21,111 @@
    "size": 315408,
    "family": "Pacifico",
    "license": "OFL-1.1"
+  },
+  {
+   "file": "fonts/FiraSansExtraCondensed-Regular.ttf",
+   "sha256": "46429b7c2ceb58c13dfe3cb441d5d6211caff0114dc49982c6937361b9b21dce",
+   "size": 439548,
+   "family": "Fira Sans Extra Condensed",
+   "license": "OFL-1.1"
+  },
+  {
+   "file": "fonts/ClimateCrisis-Regular-VariableFont_YEAR.ttf",
+   "sha256": "e960dc1a506ec53bcba5baf1b59cfdf915aea1ed50de6ff4c0247d63dfb8ca71",
+   "size": 3600664,
+   "family": "Climate Crisis",
+   "license": "OFL-1.1"
+  },
+  {
+   "file": "fonts/Lobster-Regular.ttf",
+   "sha256": "cddd7779fb2e78382a654f91dd5a656218cf133a244e17a2f5d960c06f95d73c",
+   "size": 396740,
+   "family": "Lobster",
+   "license": "OFL-1.1"
   }
  ],
  "presets": [
-  "BASIC_Opacity",
   "NZR_KARAOKE_BLACK",
-  "VIOLET_EMPH"
+  "BASIC_Opacity (NEW)",
+  "DROP GREEN",
+  "FANCY_ANIM"
+ ],
+ "pictures": [
+  {
+   "preset": "BASIC_Opacity (NEW)",
+   "file": "pictures/BASIC_Opacity (NEW).png",
+   "sha256": "a7b4c16792b0558ee40cdce7a569ac2165e3e5779eb0204b418fcb099d101af2",
+   "size": 15167,
+   "exact": true,
+   "frames": [
+    "pictures/BASIC_Opacity (NEW).frames/01.png",
+    "pictures/BASIC_Opacity (NEW).frames/02.png",
+    "pictures/BASIC_Opacity (NEW).frames/03.png",
+    "pictures/BASIC_Opacity (NEW).frames/04.png",
+    "pictures/BASIC_Opacity (NEW).frames/05.png",
+    "pictures/BASIC_Opacity (NEW).frames/06.png",
+    "pictures/BASIC_Opacity (NEW).frames/07.png",
+    "pictures/BASIC_Opacity (NEW).frames/08.png",
+    "pictures/BASIC_Opacity (NEW).frames/09.png",
+    "pictures/BASIC_Opacity (NEW).frames/10.png",
+    "pictures/BASIC_Opacity (NEW).frames/11.png",
+    "pictures/BASIC_Opacity (NEW).frames/12.png",
+    "pictures/BASIC_Opacity (NEW).frames/13.png",
+    "pictures/BASIC_Opacity (NEW).frames/14.png",
+    "pictures/BASIC_Opacity (NEW).frames/15.png",
+    "pictures/BASIC_Opacity (NEW).frames/16.png"
+   ]
+  },
+  {
+   "preset": "DROP GREEN",
+   "file": "pictures/DROP GREEN.png",
+   "sha256": "4bf642733a24389c31f1ecdb4a25f58e29ea5ff46db85e29be61ad512814c0a0",
+   "size": 34662,
+   "exact": true,
+   "frames": [
+    "pictures/DROP GREEN.frames/01.png",
+    "pictures/DROP GREEN.frames/02.png",
+    "pictures/DROP GREEN.frames/03.png",
+    "pictures/DROP GREEN.frames/04.png",
+    "pictures/DROP GREEN.frames/05.png",
+    "pictures/DROP GREEN.frames/06.png",
+    "pictures/DROP GREEN.frames/07.png",
+    "pictures/DROP GREEN.frames/08.png",
+    "pictures/DROP GREEN.frames/09.png",
+    "pictures/DROP GREEN.frames/10.png",
+    "pictures/DROP GREEN.frames/11.png",
+    "pictures/DROP GREEN.frames/12.png",
+    "pictures/DROP GREEN.frames/13.png",
+    "pictures/DROP GREEN.frames/14.png",
+    "pictures/DROP GREEN.frames/15.png",
+    "pictures/DROP GREEN.frames/16.png"
+   ]
+  },
+  {
+   "preset": "FANCY_ANIM",
+   "file": "pictures/FANCY_ANIM.png",
+   "sha256": "af9d4029cff1996961e666c057c94ca67169178e5cadefc314496420b29288f0",
+   "size": 26143,
+   "exact": true,
+   "frames": [
+    "pictures/FANCY_ANIM.frames/01.png",
+    "pictures/FANCY_ANIM.frames/02.png",
+    "pictures/FANCY_ANIM.frames/03.png",
+    "pictures/FANCY_ANIM.frames/04.png",
+    "pictures/FANCY_ANIM.frames/05.png",
+    "pictures/FANCY_ANIM.frames/06.png",
+    "pictures/FANCY_ANIM.frames/07.png",
+    "pictures/FANCY_ANIM.frames/08.png",
+    "pictures/FANCY_ANIM.frames/09.png",
+    "pictures/FANCY_ANIM.frames/10.png",
+    "pictures/FANCY_ANIM.frames/11.png",
+    "pictures/FANCY_ANIM.frames/12.png",
+    "pictures/FANCY_ANIM.frames/13.png",
+    "pictures/FANCY_ANIM.frames/14.png",
+    "pictures/FANCY_ANIM.frames/15.png",
+    "pictures/FANCY_ANIM.frames/16.png"
+   ]
+  }
  ],
  "note": "Fonts: Fira Sans Extra Condensed Bold and Pacifico Regular (SIL Open Font License 1.1) replace the macOS fonts of the authored presets."
 }
