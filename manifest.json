@@ -1,11 +1,11 @@
 {
  "format": "NAZAR_BASE_PRESETS_V1",
- "version": "2026.10.07.5",
- "created": "2026-10-07T08:15:36",
+ "version": "2026.10.08.1",
+ "created": "2026-10-08T02:49:50",
  "drb": {
   "file": "base_presets.drb",
-  "sha256": "668835fea18e90bc485e4bbbd06f061ab093771e650dfeeb1b515244fd53be31",
-  "size": 35014
+  "sha256": "7c727a20eb9049806b77f6cec3670fc22f11f8f80a766cd26297440690ac255f",
+  "size": 41085
  },
  "fonts": [
   {
@@ -42,13 +42,21 @@
    "size": 396740,
    "family": "Lobster",
    "license": "OFL-1.1"
+  },
+  {
+   "file": "fonts/FiraSans-Bold.ttf",
+   "sha256": "74b477a3e2b7c745e6dac8c01764c8fd82e53763b47ef1eccd24dce36d2ff71f",
+   "size": 473876,
+   "family": "Fira Sans",
+   "license": "OFL-1.1"
   }
  ],
  "presets": [
   "NZR_KARAOKE_BLACK",
   "BASIC_Opacity (NEW)",
   "DROP GREEN",
-  "FANCY_ANIM"
+  "FANCY_ANIM",
+  "DUDU_TEST"
  ],
  "pictures": [
   {
@@ -124,6 +132,31 @@
     "pictures/FANCY_ANIM.frames/14.png",
     "pictures/FANCY_ANIM.frames/15.png",
     "pictures/FANCY_ANIM.frames/16.png"
+   ]
+  },
+  {
+   "preset": "DUDU_TEST",
+   "file": "pictures/DUDU_TEST.png",
+   "sha256": "dff5f696090c4b9a4d6551327081de028ed9727a5115486c0aa2aeac561f8a9e",
+   "size": 15003,
+   "exact": true,
+   "frames": [
+    "pictures/DUDU_TEST.frames/01.png",
+    "pictures/DUDU_TEST.frames/02.png",
+    "pictures/DUDU_TEST.frames/03.png",
+    "pictures/DUDU_TEST.frames/04.png",
+    "pictures/DUDU_TEST.frames/05.png",
+    "pictures/DUDU_TEST.frames/06.png",
+    "pictures/DUDU_TEST.frames/07.png",
+    "pictures/DUDU_TEST.frames/08.png",
+    "pictures/DUDU_TEST.frames/09.png",
+    "pictures/DUDU_TEST.frames/10.png",
+    "pictures/DUDU_TEST.frames/11.png",
+    "pictures/DUDU_TEST.frames/12.png",
+    "pictures/DUDU_TEST.frames/13.png",
+    "pictures/DUDU_TEST.frames/14.png",
+    "pictures/DUDU_TEST.frames/15.png",
+    "pictures/DUDU_TEST.frames/16.png"
    ]
   }
  ],
