@@ -1,7 +1,7 @@
 {
  "format": "NAZAR_BASE_PRESETS_V1",
- "version": "2026.10.28.2",
- "created": "2026-10-28T12:39:20",
+ "version": "2026.10.28.3",
+ "created": "2026-10-28T13:28:24",
  "drb": {
   "file": "base_presets.drb",
   "sha256": "fc5b03f68b8d3a221317ba19caa4b9bb85e908c3d8732aefb8c7062fddcee60b",
@@ -96,7 +96,7 @@
    "file": "pictures/NZR BOX POP.png",
    "sha256": "cc976105a2595d222d11ad5e508cea01f3adb8e09113eaab41c8ed21a195b241",
    "size": 14313,
-   "exact": true,
+   "exact": false,
    "frames": [
     "pictures/NZR BOX POP.frames/01.png",
     "pictures/NZR BOX POP.frames/02.png",
@@ -122,7 +122,7 @@
    "file": "pictures/NZR BOX PLATE.png",
    "sha256": "50fe18b33c657c23237a57433e8be63a89f4fb0598682405dec55132ce17cfbc",
    "size": 8167,
-   "exact": true,
+   "exact": false,
    "frames": [
     "pictures/NZR BOX PLATE.frames/01.png",
     "pictures/NZR BOX PLATE.frames/02.png",
@@ -148,7 +148,7 @@
    "file": "pictures/NZR BOX STAY.png",
    "sha256": "1acaf15d0fc5cd72a6a85643d79016268210baab3a55cc1f492e67533278b240",
    "size": 8565,
-   "exact": true,
+   "exact": false,
    "frames": [
     "pictures/NZR BOX STAY.frames/01.png",
     "pictures/NZR BOX STAY.frames/02.png",
@@ -174,7 +174,7 @@
    "file": "pictures/NZR MARKER.png",
    "sha256": "f9245cf0b2a7f9e37fc938a74d6925da12abf7f950f9caf3923d44df072f4fee",
    "size": 14688,
-   "exact": true,
+   "exact": false,
    "frames": [
     "pictures/NZR MARKER.frames/01.png",
     "pictures/NZR MARKER.frames/02.png",
@@ -200,7 +200,7 @@
    "file": "pictures/NZR BOLD POP.png",
    "sha256": "189d637182ff3db38583fd762ee12f2aa0d6c4dc5080e75785b66a13dc73f597",
    "size": 18751,
-   "exact": true,
+   "exact": false,
    "frames": [
     "pictures/NZR BOLD POP.frames/01.png",
     "pictures/NZR BOLD POP.frames/02.png",
@@ -226,7 +226,7 @@
    "file": "pictures/NZR TRAILER.png",
    "sha256": "ea7def801f7a74588ed1d9be588d46ed63c2b8937d69f6e93abee6495a9de9e4",
    "size": 14775,
-   "exact": true,
+   "exact": false,
    "frames": [
     "pictures/NZR TRAILER.frames/01.png",
     "pictures/NZR TRAILER.frames/02.png",
@@ -252,7 +252,7 @@
    "file": "pictures/NZR TYPEWRITER.png",
    "sha256": "1e0bcc00e136640939ef44e7cd09e55a00beb76ff63d0882605d83f784bb8aab",
    "size": 12489,
-   "exact": true,
+   "exact": false,
    "frames": [
     "pictures/NZR TYPEWRITER.frames/01.png",
     "pictures/NZR TYPEWRITER.frames/02.png",
@@ -278,7 +278,7 @@
    "file": "pictures/NZR RISE.png",
    "sha256": "68227c3f6bf4b28f896940aff4a53bbd69d3b2a0c5a0a43202e1314d460d5f66",
    "size": 12033,
-   "exact": true,
+   "exact": false,
    "frames": [
     "pictures/NZR RISE.frames/01.png",
     "pictures/NZR RISE.frames/02.png",
@@ -304,7 +304,7 @@
    "file": "pictures/HISTORY.png",
    "sha256": "626244119d6e440f572cd79a096759b576d7f5c455ce0f91fc09fd7a2771ff8b",
    "size": 15132,
-   "exact": true,
+   "exact": false,
    "frames": [
     "pictures/HISTORY.frames/01.png",
     "pictures/HISTORY.frames/02.png",
