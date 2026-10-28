@@ -17,10 +17,13 @@ Restart DaVinci Resolve after an update so it picks up newly installed fonts.
 | `base_presets.drb` | the presets, as a DaVinci Resolve bin export |
 | `fonts/` | the fonts the presets use, with their licence texts |
 
-Current set **2026.09.16.1**: `BASIC_Opacity`, `NZR_KARAOKE_BLACK`, `VIOLET_EMPH`.
+Current set **2026.10.28.2**, all on the Nazar Text OFX engine: `NZR BOX POP`, `NZR BOX PLATE`, `NZR BOX STAY`,
+`NZR MARKER`, `NZR BOLD POP`, `NZR TRAILER`, `NZR TYPEWRITER`, `NZR RISE`, `HISTORY`. The Text+ presets of the
+earlier sets are no longer published.
 
-Fonts: **Fira Sans Extra Condensed** and **Pacifico**, both under the
-[SIL Open Font License 1.1](https://openfontlicense.org) (`fonts/*-OFL.txt`).
+Fonts: **Fira Sans Extra Condensed**, **Montserrat**, **Manrope**, **Unbounded**, **Golos Text**, **Dela Gothic One**,
+**Forum**, **IBM Plex Mono** and **Onest**, all from Google Fonts under the
+[SIL Open Font License 1.1](https://openfontlicense.org); each font file carries its licence in its metadata.
 
 ## Publishing a new set
 
